@@ -56,6 +56,8 @@ Would you like more detailed guidance on any specific aspect of this problem?
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/c5cc921c-fe27-4004-a637-c3ff4c2bb1c0)
+
 
 
 ## Technology Stack
