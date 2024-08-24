@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date:23-04-2024
 ## Register Number:
 ## Name:
 ## Problem Title
@@ -13,7 +13,7 @@ Ministry of Law and Justice
 
 
 ## Proposed Solution / Architecture Diagram
-
+![_7d61e038-7ff1-4bdf-8086-420655c2d22e](https://github.com/user-attachments/assets/746fe2c9-5976-416a-8eca-8623c536ae3e)
 
 ## Use Cases
 
