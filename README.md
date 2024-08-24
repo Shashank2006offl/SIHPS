@@ -13,7 +13,7 @@ Ministry of Law and Justice
 
 
 ## Proposed Solution / Architecture Diagram
-
+https://copilot.microsoft.com/images/create/simple-architecture-diagram-for-a-case-management-/1-66c94a9154e446f5bba167bf1b9e62f4?id=6%2f5R3iikIIim65xpViBH4Q%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.E3R85DuDBLO4HaPfGr5y&lng=en-US&ineditshare=1
 
 ## Use Cases
 
