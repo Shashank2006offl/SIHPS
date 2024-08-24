@@ -12,14 +12,14 @@ Ministry of Law and Justice
 ## Idea
 This system manages case files from filing to disposal and includes various features such as:
 
-# Filing of Case
-# Caveat Matching
-# Allocation of Case
-# Daily Case Proceedings
-# Notice Generation
-# Case Transfer
-# Case Status Search
-# Report Generation
+### Filing of Case
+### Caveat Matching
+### Allocation of Case
+### Daily Case Proceedings
+### Notice Generation
+### Case Transfer
+### Case Status Search
+### Report Generation
 Here are some key points and potential challenges you might consider addressing in your solution:
 
 # Key Points
