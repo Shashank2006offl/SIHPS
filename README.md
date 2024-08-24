@@ -71,7 +71,7 @@ Here's a proposed technology stack for the Case Management System (CMS):
 
 3. Redux: For state management and data storage.
 
-Backend:
+#### Backend:
 
 1. Node.js: For building a scalable and efficient server-side application.
 
@@ -114,4 +114,67 @@ Backend:
 This technology stack offers a scalable, efficient, and secure solution for the Case Management System. However, feel free to suggest changes or alternatives based on your specific requirements and preferences!
 
 ## Dependencies
+Here are the dependencies for the proposed technology stack:
+
+#### Frontend:
+
+- React: ^17.0.2
+
+- Material-UI: ^4.12.3
+
+- Redux: ^4.1.1
+
+- Redux-Thunk: ^2.3.0
+
+- React-Router: ^5.2.0
+
+- Axios: ^0.21.1
+
+#### Backend:
+
+- Node.js: ^14.17.0
+
+- Express.js: ^4.17.1
+
+- MongoDB: ^3.6.4
+
+- Mongoose: ^5.11.15
+
+- Body-Parser: ^1.19.0
+
+- Cookie-Parser: ^1.4.5
+
+- Morgan: ^1.10.0
+
+#### Database:
+
+- MongoDB: ^3.6.4
+
+#### Workflow Management:
+
+- Zapier: (no specific version)
+
+- Node-RED: ^1.2.9
+
+#### Security:
+
+- OAuth2: ^1.0.0
+
+- Passport.js: ^0.4.1
+
+- Helmet: ^4.6.0
+
+#### Reporting:
+
+- JasperReports: ^6.15.0
+
+- Chart.js: ^2.9.4
+
+DevOps:
+
+- Docker: ^20.10.7
+
+- Kubernetes: ^1.21.3
+
+- Git: ^2.31.1
 
