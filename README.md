@@ -52,7 +52,7 @@ Reporting: Customizable reports for different stakeholders.
 Would you like more detailed guidance on any specific aspect of this problem?
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/ae1d32f4-8815-4de1-9c4f-fb75ede7392c)
+![image](https://github.com/user-attachments/assets/1cc2262c-7e03-4c74-bda3-9d7ecd0e4041)
 
 
 ## Use Cases
