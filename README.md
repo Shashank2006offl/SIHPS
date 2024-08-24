@@ -13,7 +13,7 @@ Ministry of Law and Justice
 
 
 ## Proposed Solution / Architecture Diagram
-![_7d61e038-7ff1-4bdf-8086-420655c2d22e](https://github.com/user-attachments/assets/8a63f3ab-d79c-4cef-ab79-050cb838b64c)
+![Uploading image.png…]()
 
 
 ## Use Cases
